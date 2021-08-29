@@ -1,0 +1,35 @@
+Borneo Top Plantations,5.789150,116.472036
+Gaya Island,6.017990,116.02984
+Kota Kinabalu International Airport,5.922841,116.050971
+Sepanggar Island,6.068527,116.068757
+Mengalum Island,6.203413,115.597545
+Keningau Palm Oil Mill,5.109611,116.093917
+Sabah Livestock Dairies Berhad,5.109842,116.349060
+Pulau Mantani Besar,6.712630,116.352984
+Pulau Tiga,5.725562,115.654137
+Crocker Range National Park,5.400827,116.103246
+Klias Forest Reserve,5.311360,115.650991
+Yun Fook Plantations,5.329381,116.193441
+Kg Patau Paddy Field,5.762447,116.446079
+Hutan Lipur Kawang,5.761993,116.038804
+Candi Hill,0.166908,115.588300
+Mount Basakan,3.758345,116.372214
+Mount Sembibit,3.143335,116.505901
+Mount Tukusilo,3.242733,115.900799
+Enggang Alam Sawita Plantations,0.390514,116.094016
+Tunas Prima Sejahtera Plantations,0.128261,116.437167
+Rea Kaltim Plantations,0.232501,116.165288
+Maligan Forest Reserve,4.555781,115.603633
+Sungai Mentarang,3.522555,116.526600
+Semaring Airport,3.899236,115.689378
+PT.Eagle High Plantation,0.036135,116.194995
+Sungai Bengen,0.584299,116.033228
+Ba'kelalan Airport,3.974531,115.619071
+Batuputih Hill,2.800099,115.866667
+Gunung Trasmadi,5.55,116.516925
+Manukan Island,5.97587,116.00074
+Borneo Golf Resort,5.532828,115.809574
+Mount Kemul,1.860281,116.176389
+Sabah Agriculture Park,5.174368,115.986142
+Sawangan Beach,5.625985,115.606089
+Long Semado Airport,4.21719,115.600119
